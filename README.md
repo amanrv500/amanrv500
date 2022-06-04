@@ -83,15 +83,17 @@ Here are some ideas to get you started:
 
 </details>
 -->
+
+---
+
+
+![new](https://github-readme-stats.vercel.app/api?username=amanrv500&show_icons=true&theme=tokyonight)
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
----
-
-
-![new](https://github-readme-stats.vercel.app/api?username=amanrv500&show_icons=true&theme=tokyonight)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanrv500&repo=github-readme-stats)](https://github.com/amanrv500/github-readme-stats)-->
 
