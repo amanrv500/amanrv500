@@ -95,6 +95,9 @@ Here are some ideas to get you started:
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+## Watch my contributions get eaten by a snake 🐍
+ ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.gif)
+
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amanrv500&repo=github-readme-stats)](https://github.com/amanrv500/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanrv500&langs_count=8)](https://github.com/amanrv500/github-readme-stats)-->
