@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Sass" width="40" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="JavaScript" width="40" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="React" width="40" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> 
-<img align="left" alt="Gatsby" width="40" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;"/> 
-<img align="left" alt="GraphQL" width="40" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;"/>
+<!-- <img align="left" alt="Gatsby" width="40" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;"/>  -->
+<!-- <img align="left" alt="GraphQL" width="40" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;"/> -->
 <img align="left" alt="Node.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="padding-right:10px;" /> 
 <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="padding-right:10px;" /> 
-<img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="padding-right:10px;" /> 
+<!-- <img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="padding-right:10px;" />  -->
 <img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="padding-right:10px;"/>   
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="padding-right:10px;"/>    
+<!-- <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="padding-right:10px;"/>     -->
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" style="padding-right:10px;"/> 
