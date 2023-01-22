@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 <!-- <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="padding-right:10px;"/>     -->
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding-right:10px;"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" style="padding-right:10px;"/> 
-
+<!-- <img align="left" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" style="padding-right:10px;"/> 
+ -->
 <br/>
 <br/>
 
