@@ -92,8 +92,8 @@ Here are some ideas to get you started:
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- ### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 <!--
 ## Watch my contributions get eaten by a snake 🐍
  ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.gif)
