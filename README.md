@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other Web Developers
 - 😄 Pronouns: He/Him
 - 💬 Ask me about Anything
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums 
 
 
